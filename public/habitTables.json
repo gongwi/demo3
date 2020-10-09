@@ -1,0 +1,1322 @@
+[
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  },
+  {
+    "habitTable": [
+      {
+        "habit": "早起（7点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "吃早餐",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "练口语",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "背单词",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "做瑜伽",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "午睡",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "看外刊",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "泡脚",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 4
+      },
+      {
+        "habit": "敷面膜",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 2
+      },
+      {
+        "habit": "转动眼睛x5",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "搭配第二天的衣服",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "记账",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "写日记",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "放下手机（22点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      },
+      {
+        "habit": "阅读书本",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 5
+      },
+      {
+        "habit": "早睡（23点）",
+        "checked": [false, false, false, false, false, false, false],
+        "disabled": [false, false, false, false, false, false, false],
+        "done": false,
+        "show": true,
+        "times": 7
+      }
+    ]
+  }
+]
